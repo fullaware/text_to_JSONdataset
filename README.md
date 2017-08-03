@@ -1,6 +1,6 @@
 # text_to_JSONdataset
 
-Parse WestburyLab UsenetCorpus into JSON objects
+Parse WestburyLab UsenetCorpus into JSON file for import to MongoDB
 
 Can download from:
     http://www.psych.ualberta.ca/~westburylab/downloads/usenetcorpus.download.html
