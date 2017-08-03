@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """Parse WestburyLab UsenetCorpus into JSON objects
 
     Can download from:
